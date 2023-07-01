@@ -218,9 +218,11 @@ int main() {
 	system("pause");
 }
 
+//BETA 2.0, INICIAR NUEVO PROYECTO
 
-//Funcion apuesa
-int apuesta(int repeticion, int color) {
+
+//Funcion apuesta
+ int apuesta(int repeticion, int color) {
 	int color_apuesta;
 	if (repeticion >= 3) {
 		color_apuesta = color;
