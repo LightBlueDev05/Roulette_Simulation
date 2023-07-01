@@ -219,6 +219,8 @@ int main() {
 }
 
 //BETA 2.0, INICIAR NUEVO PROYECTO
+//ESTO ES UNA PRUEBA
+//HOLA
 
 
 //Funcion apuesta
